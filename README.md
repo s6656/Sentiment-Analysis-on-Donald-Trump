@@ -4,9 +4,13 @@ Find out the views of different people on Donald Trump by analyzing tweets using
 python based project
 
 Dependencies-
+
 1. nltk
+
 2. numpy
+
 3. tweepy
+
 4. matplotlib
 
 
